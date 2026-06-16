@@ -1,12 +1,15 @@
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGjOOMv8IJ6pw/profile-displaybackgroundimage-shrink_350_1400/B56Z26.cwKHgAY-/0/1776958430278?e=1782950400&v=beta&t=BXE68oMj1n2Kv3PNxXe6xWDBks96bePHgXGfpLd2F8Y" width="100%" alt="Kumaran S Banner" />
+</p>
+
 # Hi there, I'm Kumaran S 👋
 ### Computer Science Undergrad '27 | Software Engineering & System Design
 
-<img src="https://camo.githubusercontent.com/f36cfde99abc030a7dbf6831735be0c7f8cd968b1713fb1b861749a9949a8ca9/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66302f33342f34376630333432636563373262383030343633626630303365616331323537652e676966" width="380" align="right" height="290" alt="Developer GIF" />
+<img src="https://camo.githubusercontent.com/f36cfde99abc030a7dbf6831735be0c7f8cd968b1713fb1b861749a9949a8ca9/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66302f33342f34376630333432636563373262383030343633626630303365616331323537652e676966" width="360" align="right" height="270" alt="Developer GIF" />
 
 - 🌐 **My Portfolio:** Check out my work at [kumaransenthilarasu.in](https://kumaransenthilarasu.in)
 - 🚀 **What I Do:** I build full-stack web apps using the MERN stack, design backend systems with Java and Spring Boot, and create mobile apps with Flutter.
-- 🛠️ **What I'm Building:** 
-  - **Graphos AI:** Working on smart layout parsing and text optimization.
+- 🛠️ **What I'm Building:** - **Graphos AI:** Working on smart layout parsing and text optimization.
   - **PrepVerse:** Building smooth, low-latency audio/video communication pipelines.
 - 📚 **What I'm Learning:** Deep diving into Advanced Data Structures & Algorithms, specifically focusing on Trees, Graph Theory, and Dynamic Programming.
 - 📈 **My Goal:** Practicing problem-solving and sharpening my coding skills to secure a software engineering role at a top-tier tech company (FAANGM).
@@ -32,20 +35,21 @@
 
 ---
 
-## 💻 I Code In
+## 💻 Tech Stack & Ecosystem
 
+### 🛠️ Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,js,ts,c,dart,html,css,solidity" alt="Languages" />
   <br />
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,flutter,tailwind" alt="Frameworks" />
-  <br />
+</p>
+
+### 🗄️ Databases, DevOps & Cloud
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres,docker,githubactions" alt="Databases and DevOps" />
 </p>
 
----
-
-## 🔧 IDEs & Tools I Use
-
+### 🔧 IDEs & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,git,github,vercel,figma" alt="Tools" />
 </p>
