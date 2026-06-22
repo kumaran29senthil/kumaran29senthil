@@ -10,8 +10,9 @@
 - 🌐 **My Portfolio:** Check out my work at [kumaransenthilarasu.in](https://kumaransenthilarasu.in)
 - 🚀 **What I Do:** I build full-stack web apps using the MERN stack, design backend systems with Java and Spring Boot, and create mobile apps with Flutter.
 - 🛠️ **What I'm Building:** 
-   - **Talent IQ** 
-   - **Graphos AI**
+   - **Talent IQ:** Real-Time Technical Interview & Collaborative Coding Platform
+   - **Graphos AI:** AI-Powered Collaborative System Architecture Designer
+   - **Prepverse:** AI-Powered Mock Interview Preparation Platform
 - 📚 **What I'm Learning:** Deep diving into Advanced Data Structures & Algorithms, specifically focusing on Trees, Graph Theory, and Dynamic Programming.
 - 📈 **My Goal:** Practicing problem-solving and sharpening my coding skills to secure a software engineering role at a top-tier tech company (FAANGM).
 - 🥇 **Hackathons & Wins:** Winner of the **Smart India 2025 Internal Hackathon** (Top 1 out of 50 teams) and Finalist at **TN Skills 2025** for Web Technologies.
